@@ -6,7 +6,7 @@ This repo automatically syncs my LeetCode submissions using **LeetHub**, and inc
 ---
 
 ## 📚 About
-- 💻 Language Used: **C++**
+- 💻 Language Used: **C++,sql,java **
 - 🔁 Auto Synced via: **LeetHub Chrome Extension**
 - 📆 Goal: Solve **at least one problem daily**
 - 🎯 Focus Topics: Arrays, Strings, Two Pointers, HashMap, Linked List, Stack, Queue, Binary Tree, DP, Graphs, and more.
